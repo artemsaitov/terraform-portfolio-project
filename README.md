@@ -10,8 +10,8 @@ Project: Portfolio Website Deployment
 Project Description:
 James Smith has designed a modern, responsive single-page portfolio website using Next.js. He needs this website hosted on a robust, scalable, and cost-effective platform with global availability and fast loading times.
 
-Your Role:
-As cloud engineers, you will deploy James's Next.js portfolio website on AWS using Infrastructure as Code (IaC) principles with Terraform.
+Task:
+The goal is to  deploy James's Next.js portfolio website on AWS using Infrastructure as Code (IaC) principles with Terraform.
 
 Requirements
 The website must be:
